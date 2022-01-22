@@ -6,7 +6,7 @@ Proponemos un set de caracteres que consideramos el mapa *Latin-MX*, cristaliza 
 
 ## Mapas de caracteres
 
-* [charsets/Robofont](charsets/Robofont) Mapa de caracteres para Robofont.
+* [charsets/RoboFont](charsets/RoboFont) Mapa de caracteres para RoboFont.
 
 * [charsets/Glyphs](charsets/Glyphs) Mapa de caracteres para Glyphs.
 
